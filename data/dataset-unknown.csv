@@ -1,0 +1,12 @@
+Subject,Body,Labels,Selected
+Technical Support Request,My laptop is not connecting to the printer. I've tried restarting both devices but nothing works. Please help.,Order Confirmation;Promotion;Meeting;Unknown,Unknown
+Security Alert,Suspicious login attempt detected from IP 192.168.1.1. Please verify if this was you and change your password immediately.,Project Update;Order Confirmation;Spam;Meeting;Unknown,Unknown
+Charity Donation Receipt,Thank you for your generous donation of $50 to Children's Hope Foundation. Your contribution will help provide meals to 20 children.,Internal Communication;Spam;Meeting;Promotion;Unknown,Unknown
+Application for Software Engineer role,Thanks for applying to the role. After consideration we have decided to move forward with another candidate. Thanks for your time.,Spam;Internal Communication;Notification;Unknown,Unknown
+Wireless Printer Not Responding,The wireless printer in the main office is not responding to print commands even after several restarts. Kindly assist.,Order Confirmation;Promotion;Meeting;Unknown,Unknown
+Invoice Discrepancy Concern,I noticed that the amount on the latest invoice seems incorrect. Could you please clarify the additional charges?,Promotion;Meeting;Internal Communication;Unknown,Unknown
+Vacation Policy Clarification,I am seeking clarity on the new vacation policy. The changes regarding vacation accrual are unclear.,Technical Support;Order Update;Spam;Unknown,Unknown
+New Idea for Office Layout,I propose a new office layout to improve workflow and employee satisfaction. Let's arrange a brainstorming session.,Order Confirmation;Promotion;Meeting;Unknown,Unknown
+Community Gardening Initiative,I suggest we start a community gardening project at the office to promote sustainability and team bonding. Your feedback is welcome.,Internal Communication;HR;IT Support;Unknown,Unknown
+Annual Report Discussion,After reviewing the annual report I have several questions about the financial metrics. Can we set up a discussion?,Spam;Promotion;Meeting;Unknown,Unknown
+Recipe Exchange Invitation,Let's organize a recipe exchange among colleagues to share our favorite dishes and cooking tips. It could be a fun event!,Internal Communication;Technical Support;Finance;Unknown,Unknown
